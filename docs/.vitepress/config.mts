@@ -7,7 +7,7 @@ export default defineConfig({
   description: "一个基于VitePress搭建的个人博客网站.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/logo.svg",
+    logo: "/authorAvatar.jpg",
     search: {
       provider: "local",
     },

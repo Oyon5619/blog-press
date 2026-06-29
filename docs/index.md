@@ -6,7 +6,7 @@ hero:
   name: "Geeker Boy's Blog"
   tagline: A personal blog website based on VitePress.
   image:
-    src: /logo.svg
+    src: /authorAvatar.jpg
     alt: Geeker Boy
   actions:
     - theme: brand
